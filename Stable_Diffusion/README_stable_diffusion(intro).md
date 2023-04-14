@@ -20,7 +20,7 @@ QEU ROUND 2-3 Stable_Diffusion(INTRO)
 | 2023-04-01 | QEUR23_SNLPS5 | [T法(2)による Sentiment Analysis (Yelp_Review、その2)](./2023-04-01-QEUR23_SNLPS5.html) |
 | 2023-04-03 | QEUR23_SNLPS6 | [T法(2)による Sentiment Analysis (Yelp_Review、その3)](./2023-04-03-QEUR23_SNLPS6.html) |
 | 2023-04-05 | QEUR23_SNLPS7 | [T法(2)による Sentiment Analysis (Yelp_Review、その4)](./2023-04-05-QEUR23_SNLPS7.html) |
-| 2023-04-09 | QEUR23_SNLPS8 | [オリエンテーション(1)～Prompt Engineeringとは](./2023-04-09-QEUR23_SNLPS8.html) |
+| 2023-04-09 | QEUR23_MLTS0 | [オリエンテーション(1)～Prompt Engineeringとは](./2023-04-09-QEUR23_SNLPS8.html) |
 | 2023-04-11 | QEUR23_MLTS1 | [オリエンテーション(2)～Prompt Engineering as “Software 3.0](./2023-04-11-QEUR23_MLTS1.html) |
 | 2023-04-14 | QEUR23_MLTS2 | [オリエンテーション(3)～img2imgとCLIPは使いよう](./2023-04-14-QEUR23_MLTS2.html) |
 
